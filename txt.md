@@ -12,8 +12,8 @@
 1. Yam 3
 
 
--[x] House rent is paid
--[] Nex month same date
+- [x] House rent is paid
+- [] Nex month same date
 
 
 ```js
