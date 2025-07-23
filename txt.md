@@ -13,7 +13,7 @@
 
 
 - [x] House rent is paid
-- [] Nex month same date
+- [ ] Nex month same date
 
 
 ```js
